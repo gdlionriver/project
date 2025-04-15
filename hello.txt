@@ -1,5 +1,6 @@
 
 
-hello vs2022 C
-hello vsCode
+
+
+hello CLI 
 hello RIVER
