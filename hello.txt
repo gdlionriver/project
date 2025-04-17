@@ -1,5 +1,6 @@
 
 
+hello vs2022 C
 
 hello vs2022 B		hello-vs.txt
 
