@@ -1,9 +1,7 @@
 
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> branch-cli
+hello vs2022
+---
 hello CLI 
 hello RIVER
