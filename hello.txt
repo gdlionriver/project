@@ -1,8 +1,10 @@
 
 
-hello b-vs-a	C
-hello b-vs-a	B
-hello b-vs-a	A
+hello b-cli-a D 	//手動解決衝突  	//打開 .gitignore 和 hello.txt
+hello b-cli-a C
+hello b-cli-a B
+hello b-cli-a A
+
 
 ---
 
