@@ -1,3 +1,10 @@
+
+
+hello b-cli-a A
+
+
+---
+
 hello CLI	
 
 hello vs2022 C
